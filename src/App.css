@@ -23,6 +23,18 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.heart-img {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-60%, -50%);
+  z-index: 1;
+}
+.second-heart-img{
+  position: absolute;
+  top: 80%;
+  left: 40%;
+}
 
 .App-link {
   color: #61dafb;

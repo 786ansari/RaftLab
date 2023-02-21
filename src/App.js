@@ -12,12 +12,8 @@ function App() {
     </div>
     <div className='heart-img'>
     <img src="../assets/img/love.png" alt="love-image" width="100px"/>
-    <img src="../assets/img/love.png" alt="love-image" width="100px"/>
-    <img src="../assets/img/love.png" alt="love-image" width="100px"/>
     </div>
     <div className='second-heart-img'>
-    <img src="../assets/img/love-birds.png" alt="love-image" width="100px"/>
-    <img src="../assets/img/love-birds.png" alt="love-image" width="100px"/>
     <img src="../assets/img/love-birds.png" alt="love-image" width="100px"/>
     </div>
     </div>

@@ -48,3 +48,19 @@
     transform: rotate(360deg);
   }
 }
+@media only screen and (max-width: 600px) {
+  heart-img {
+    position: absolute;
+    top: 10%;
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    color: aqua;
+    align-items: center;
+    transform: translate(-60%, -50%);
+    z-index: 1;
+  }
+  body{
+    color: #61dafb;
+  }
+}
